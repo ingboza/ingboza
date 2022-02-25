@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ingboza
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Js
+- 🌱 I’m currently learning Node Js
 - 💞️ I’m looking to collaborate on wichever work about Js
 - 📫 How to reach me on it
 
